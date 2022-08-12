@@ -81,12 +81,12 @@ p {
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
     background-color: #2589bd;
 }
-
+/* grouped css selectors */
 .benefit-lead .benefit-brand .benefit-cost {
     margin-bottom: 32px;
     color: #ffffff;
 }
-
+/* grouped css selectors */
 .benefit-lead h3 , .benefit-brand h3, .benefit-cost h3{
     margin-bottom: 10px;
     text-align: center;
